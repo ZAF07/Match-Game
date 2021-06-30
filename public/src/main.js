@@ -1,6 +1,6 @@
 import './resources/style.css';
 import * as three from './three/three.js'
-
+console.log();
 // Setting up the mouse ray
 const pickPosition = {x: 0, y: 0};
 clearPickPosition();
